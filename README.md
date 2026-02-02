@@ -1,4 +1,4 @@
-# 📚 Data Structures Coursework
+# Data Structures Coursework
 
 This repository contains my lab exercises, assignments, and reference code from my University Data Structures course.
 
@@ -17,5 +17,5 @@ To document my understanding of core computer science fundamentals and algorithm
 ### Tech Stack
 * **Language:** C++
 * **Tools:** VS Code, Dev cpp
-* 
+  
 *Note: This repository is for educational purposes and demonstrates my academic progress in data structures.*
